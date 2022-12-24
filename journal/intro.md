@@ -2,4 +2,4 @@
 title: Introduction
 ---
 
-This is Notes directory
+This is Journal directory
